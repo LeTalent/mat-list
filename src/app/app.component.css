@@ -1,0 +1,15 @@
+.mat-card:not([class*=mat-elevation-z]) {
+  box-shadow: 0 2px 1px -1px rgba(0,0,0,1),
+              0 1px 1px 0 rgba(0,0,0,1),
+              0 1px 3px 0 rgba(0,0,0,1);
+}
+.mat-card{
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 1000px;
+}
+.mat-list-icon {
+  color: rgba(0, 0, 0, 0.54);
+  margin-right: 30px;
+}
